@@ -16,7 +16,7 @@ A website build from this mock up image ![alt Preview](https://github.com/moring
 
 ### Usage
 
-*** To view the app.Visit -> [remoteworkassessment](https://ekibet.github.io/fashion/)
+*** To view the app.Visit -> [remoteworkassessment](https://leskeylevy.github.io/work_assement/)
 
 1. Clone this repo: git clone https://github.com/leskeylevy/work_assement.git
 2. The repo comes in a zipped or compressed format. Extract to your prefered location and open it.
