@@ -226,3 +226,52 @@ p.solid {
       text-transform: uppercase;
       font-size: 18px;
   }
+
+  @media only screen and (max-width: 800px) {
+    #about {
+      background-image: url('images/backgrounds/about.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 50%;
+      position: relative;
+      text-align: center;
+      color: white;
+      padding: 1%;
+      font-size: 1rem;
+    }
+    #headhead{
+      text-align: center;
+      color: azure;
+      top: 30%;
+      margin-left: 15%;
+      position: absolute;
+    }
+    .headtext {
+      text-align: center;
+      color: azure;
+      top: 50%;
+      margin-left: 17%;
+      position: absolute;
+    }
+    .buto {
+      display: none;
+    }
+  }
+  @media only screen and (max-height: 800px){
+    #about {
+      background-image: url('images/backgrounds/about.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 40%;
+      position: relative;
+      text-align: center;
+      color: white;
+      padding: 1%;
+      font-size: 1rem;
+    }
+    .buto {
+      display: none;
+    }
+  }
